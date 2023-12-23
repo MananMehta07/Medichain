@@ -1,0 +1,25 @@
+.rms{
+text-align: center;
+font-weight: 700;
+color: rgb(65,84,241);
+}
+
+.caa{
+    text-align: right;
+    margin-right: 11%;
+}
+
+.for{
+    text-align: center;
+}
+.add{
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+
+.tab {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+  }
+  
